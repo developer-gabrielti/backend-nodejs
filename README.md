@@ -1,12 +1,19 @@
 <h1 align="center">Backend Node.js </h1>
 
-> Status: Finished ✔️
+<p align="center">Projeto backend utilizando mvc, e alguns relacionamentos e querys mais complexas. 
+Este foi um projeto de estudo, visando melhorar as skills com banco de dados. </p>
 
-### Projeto backend utilizando mvc, e alguns relacionamentos e querys mais complexas.
-## Este foi um projeto de estudo, visando melhorar as skills com banco de dados.
+<h1 align="center">
+  <a href="https://nodejs.org/en/">🔗 NODE.js</a>
+</h1>
 
-<h2>Tecnologias usadas no BACK-END ✔️</h2>
-<table>
+<p align="center">Node é um ambiente de execução Javascript server-side.</p>
+
+<h3 align="center"> Status de dev: Finalizado ✔️</h3>
+
+
+<h2 align="center">Tecnologias usadas no BACK-END</h2>
+<table align="center">
   <tr>
     <td>NodeJS</td>
     <td>PostgreSQL</td>
@@ -21,10 +28,18 @@
   </tr>
 </table>
 
-## Como rodar esse projeto? 🏃🏽‍♂️
-### Estando na pasta do projeto basta digitar os seguintes comando:
+<p align="center">Link para as tecnologias</p>
 
-1) npm install
-2) npm start || npm run start
-3) npx sequelize db:create || yarn sequelize db:create
-4) npx sequelize db:migrate || yarn sequelize db:migrate
+<p align="center"><a href="https://nodejs.org/en/">NODE.js</a></p>
+<p align="center"><a href="https://expressjs.com/pt-br/">Express</a></p>
+<p align="center"><a href="https://sequelize.org/master/">Sequelize</a></p>
+<p align="center"><a href="https://www.postgresql.org/">PostgreSQL</a></p>
+
+
+<h1 align="center"> Como rodar esse projeto? 🏃🏽‍♂️ </h1>
+<h3 align="center"> Estando na pasta do projeto basta digitar os seguintes comando:</h3>
+
+<p align="center">1) npm install</p>
+<p align="center">2) npm start || npm run start</p>
+<p align="center">3) npx sequelize db:create || yarn sequelize db:create</p>
+<p align="center">4) npx sequelize db:migrate || yarn sequelize db:migrate</p>
